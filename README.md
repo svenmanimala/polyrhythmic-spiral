@@ -13,3 +13,10 @@ An interactive visual and acoustic simulation built with HTML5 Canvas and the We
 
 ## Demo
 Open `index.html` in any modern web browser or visit the live deployment via GitHub Pages.
+
+
+
+https://github.com/user-attachments/assets/9f99f359-5b03-44fb-b1a4-5fa645a70696
+
+
+
